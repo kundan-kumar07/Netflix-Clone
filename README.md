@@ -1,7 +1,7 @@
 📄 Netflix Clone – README
 📺 Netflix Clone
 A Netflix-inspired streaming UI clone built using modern frontend technologies. It mimics the Netflix home page with dynamic movie posters, trailers, and a responsive UI.
-
+Deployed website on render link:https://netflix-clone-ahcq.onrender.com
 🚀 Features
 🔍 Browse popular movies and TV shows
 
